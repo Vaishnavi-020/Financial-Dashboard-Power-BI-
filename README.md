@@ -33,61 +33,49 @@ _Key Highlights:_
 
 Total Revenue, Total Profit, and Net Profit Margin cards
 
-Monthly trends for revenue & profit
+Eye catching country slicers
 
-Revenue distribution by Product Category
+Revenue generted by each country 
 
-Top performing and low performing products
-
-Expense breakdown by major cost categories
-
-KPI indicators to compare performance against previous periods
+Top performing products
 
 _This page is designed for a quick glance at overall business health, showing both current performance and historical patterns._
 
 ---
 
-**📌 Page 2: Customer & Region Insights**
+**📌 Page 2: Profit and Cost Insights **
 
-This page focuses on customer-level and geographical insights.
+This page focuses on profit generated.
 
 _Key Highlights:_
 
-Revenue by Region (map view)
+Total Revenue, Total Profit, and Net Profit Margin cards
 
-Customer segment contribution
+Eye catching country slicers
 
-Profit % by region
+Avg profit generted by each country 
 
-Monthly customer growth trend
+Products generating highest profit 
 
-Category performance filtered by region/customer
-
-Interactive slicers for deep-dive analysis
-
-_This page helps understand where the business is growing, which customer groups add the most value, and how different regions contribute to profitability._
+_This page helps understand where the business is growing, and how different regions contribute to profitability._
 
 ---
 
 **🛠 Tools & Technologies**
 
 _Tool	Use_
-Power BI- Data cleaning, measures, dashboard creation
-SQl- Creating Views for easier load in Power BI
+Power BI- dashboard creation
+SQl- Data cleaning and creation of views for easier load in Power BI
 
 ---
 
 **📈 Insights & Learnings**
 
-Identified clear revenue spikes around certain months
-
-Found regions with high revenue but low profit margins
-
-Improved understanding of customer behavior and segment-wise contribution
-
-Visualized how expenses affect profit trends
-
-Learned the importance of proper data modeling and DAX optimization
+- Government and Small Business segments generate the highest revenue
+- France, Germany, and Canada show strong and stable financial performance
+- Certain products like Amarilla and VTT consistently rank at the top
+- Majority of revenue and profit comes from 2014
+- The business has stable but decreasing profit trends, which needs attention
 
 ---
 
