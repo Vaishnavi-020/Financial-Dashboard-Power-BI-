@@ -9,17 +9,13 @@ The financial dataset includes information about:
 
 Revenue & Profit
 
-Expenses & Cost Distribution
+Monthly Sales Trend
 
-Customer Segments
+Segment wise total sales
 
 Product Categories
 
 Monthly & Yearly Trends
-
-Geographical Performance
-
-Contribution Analysis
 
 ---
 
@@ -65,7 +61,7 @@ _This page helps understand where the business is growing, and how different reg
 
 _Tool	Use_
 Power BI- dashboard creation
-SQl- Data cleaning and creation of views for easier load in Power BI
+SQl- Creation of views for easier load in Power BI
 
 ---
 
